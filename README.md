@@ -22,12 +22,19 @@ Debido a que hay 10 zonas de paletizado, se programa una zona específica para c
 - Se hace uso se 4 transpalet eléctricos, los cuales transportan los pallets de la estación de descarga a la zona P.
 - Dependiendo el tipo de camión llega a una fuente distinta.
 - Los pallets a utilizar para paletizar el producto, son los mismos que se obtuvieron en el proceso de despaletización.
-
+- Se estima que en promedio llegan 31 estibas y 70 cajas por cada una de ellas, para un total de 2.201 en cada camión, las cuales son utilizadas para el calculo de la proporción de las salidas y llegadas al sistema. 
 # - Alternativa 2:
 - Dependiendo el tipo de camión llega a una fuente distinta.
 - Se trabaja con 4 operarios para el proceso de descarga.
 - Los pallets a utilizar para paletizar el producto, son los mismos que se obtuvieron en el proceso de despaletización.
+- Se estima que en promedio llegan 31 estibas y 70 cajas por cada una de ellas, para un total de 2.201 en cada camión, las cuales son utilizadas para el calculo de la proporción de las salidas y llegadas al sistema. 
 
 # RESULTADOS:
+
+# - Alternativa 1: 
+- Llegan 36 camiones lo que equivale aproximadamente a 79.236 cajas, a su vez salen 205 pallets que equivalen a 14.350 cajas; para un porcentaje de salida respecto a las llegadas de 18.11%.
+# - Alternativa 2:
+- Llegan 33 camiones lo que equivale aproximadamente a 72.633 cajas, a su vez salen 204 pallets que equivalen a 14.280 cajas; para un porcentaje de salida respecto a las llegadas de 19.66%.
+
 
 
