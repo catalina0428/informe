@@ -2,7 +2,7 @@
 
 # OBJETIVO:
 
-Simular un sistema Cross-docking evaluando dos alternativas diferentes, con el fin de identificar cual es la mas conveniente para aplicar en la empresa objeto de estudio. 
+Simular un sistema Cross-docking evaluando dos alternativas diferentes, con el fin de identificar cuál es la más conveniente para aplicar en la empresa objeto de estudio. 
 
 # FUNCIONAMIENTO:
 
