@@ -15,6 +15,8 @@ En este proceso se tienen dos sources, el primero en donde cada pallet es separa
 # Proceso de paletizado: 
 Debido a que hay 10 zonas de paletizado, se programa una zona específica para cada tienda de destino, en las cuales mediante un combiner, son paletizadas de a 70 unidades por Pallet los cuales se dirigen a la estación de caga para ser enviados a su destino.
 
+"Ver anexo Informe - Funcionamiento opción 1, 2"
+
 # SUPUESTOS: 
 
 # - Alternativa 1: 
